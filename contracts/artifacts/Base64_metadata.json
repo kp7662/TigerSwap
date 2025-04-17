@@ -1,0 +1,47 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Provides a function for encoding bytes in base64.",
+			"kind": "dev",
+			"methods": {},
+			"title": "Base64",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Base64.sol": "Base64"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Base64.sol": {
+			"keccak256": "0x690508cd7474d2608414dbeebc0ba35f254274d06892a348529f7963bdfce5b0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://14e0576e9395cb7a1387574a9779d64eeadb0a1bbd2f5f349951b059d14a5f65",
+				"dweb:/ipfs/QmZ3dS8z7AnLQzicKQRJLsm9mdkfmSV6mNLsHztGi64z5W"
+			]
+		}
+	},
+	"version": 1
+}
