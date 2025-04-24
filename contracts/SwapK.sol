@@ -6,7 +6,6 @@ import "./Swap.sol";
 /**
  * @title SwapK
  * @dev Generalized multi-way swap up to length k using depth-first search with adjacency pruning.
- * WARNING: On-chain cycle detection beyond small k is extremely expensive in gas!
  */
 contract SwapK is Swap {
     event MultiWaySwapExecuted(
